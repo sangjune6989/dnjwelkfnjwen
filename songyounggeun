@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Mountain Sex Website">
+  <title>MOUNTAIN SEX</title>
+  <style>
+    body {
+      font-family: 'Helvetica', sans-serif;
+      font-weight: bold;
+      background-color: red;
+      color: black;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      text-align: center;
+      padding: 100px;
+      background-color: red;
+      
+    }
+    nav {
+      text-align: center;
+      padding: 20px;
+      background-color: #555;
+    }
+    nav a {
+      color: white;
+      margin: 0 20px;
+      text-decoration: none;
+      font-size: 18px;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 50px;
+      text-align: center;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #333;
+      color: white;
+    }
+    h1 {
+        font-size: 60px;
+    }
+    h2 {
+        font-size: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>MOUNTAIN SEX</h1>
+  </header>
+
+  <section id="doodoodoohyun">
+    <h2>DOODOOHYUN</h2>
+    <div>
+        <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/W60k7Abvl-k?list=PLxpHG0IrGFgKNCMgcbHUJjrO-FyRWVq7t" 
+          title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+  </section>
+
+  <section id="yangsangsongyounggeun">
+    <h2>양산사람송영근</h2>
+    <div>
+        <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/NJaq8CNlnNo?si=4Sktn6est7nlWGU0" 
+          title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+  </section>
+
+  <section id="unamseungman">
+    <h2>우남</h2>
+    <div>
+        <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/2r8aBt1Xb38?si=9OMAXzimjGIORIOB" 
+          title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+  </section>
+
+</body>
+</html>
